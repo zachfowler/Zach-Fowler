@@ -23,8 +23,8 @@ You are tasked with navigating, modifying, and analyzing these data files in ord
 
 Lucky Duck Casino has provided you with the following files:
 
-  - [Win/loss player data from the roulette tables during the week of March 10th](resources/Roulette_Player_WinLoss_0310.zip)
-  - [Employee Dealer schedule during the week of March 10th](resources/Dealer_Schedules_0310.zip)
+  - [Win/loss player data from the roulette tables during the week of March 10th](Resources/Roulette_Player_WinLoss_0310.zip)
+  - [Employee Dealer schedule during the week of March 10th](Resources/Dealer_Schedules_0310.zip)
 
 
 ### Your Objective 
