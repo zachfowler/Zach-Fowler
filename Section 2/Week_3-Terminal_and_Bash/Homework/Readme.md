@@ -23,8 +23,8 @@ You are tasked with navigating, modifying, and analyzing these data files in ord
 
 Lucky Duck Casino has provided you with the following files:
 
-  - [Win/loss player data from the roulette tables during the week of March 10th](resources/Roulette_Player_WinLoss_0310.zip)
-  - [Employee Dealer schedule during the week of March 10th](resources/Dealer_Schedules_0310.zip)
+  - [Win/loss player data from the roulette tables during the week of March 10th](Resources/Roulette_Player_WinLoss_0310.zip)
+  - [Employee Dealer schedule during the week of March 10th](Resources/Dealer_Schedules_0310.zip)
 
 
 ### Your Objective 
@@ -78,11 +78,11 @@ Your first task is to set up directories to prepare for your investigation.
 
 Your next task is to move evidence from the specific days Lucky Duck experienced heavy losses at the roulette tables. 
 
- - The following [files and directories](resources/Roulette_Player_WinLoss_0310.zip) contain the win/loss player data from the roulette tables during the week of March 10th.
+ - The following [files and directories](Resources/Roulette_Player_WinLoss_0310.zip) contain the win/loss player data from the roulette tables during the week of March 10th.
   
    - Since the losses occurred on March 10th, 12th, and 15th, move those files into the directory `Player_Analysis`.
  
- - The following [files and directories](resources/Dealer_Schedules_0310.zip) contain the employee schedules for all of Lucky Duck's tables during the week of March 10th.
+ - The following [files and directories](Resources/Dealer_Schedules_0310.zip) contain the employee schedules for all of Lucky Duck's tables during the week of March 10th.
  
    - Since the losses occurred on March 10th, 12th, and 15th, move the schedules for those days into the directory `Dealer_Analysis`
 
